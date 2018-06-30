@@ -13,7 +13,7 @@ public class ViewerComponentExample {
          SwingViewBuilder factory = new SwingViewBuilder(controller);
  
          JPanel viewerComponentPanel = factory.buildViewerPanel();
- 
+         //Comment
          // add interactive mouse link annotation support via callback
          controller.getDocumentViewController().setAnnotationCallback(
                  new org.icepdf.ri.common.MyAnnotationCallback(
