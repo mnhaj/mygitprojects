@@ -9,5 +9,4 @@ public class Main {
 	       System.out.println(pdfManager.ToText()); 
 		//Changing on the Website.
 	}
-
 }
