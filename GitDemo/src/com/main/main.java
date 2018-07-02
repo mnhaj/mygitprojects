@@ -9,6 +9,7 @@ public class main {
 		int c=a+b;
 		System.out.println("Output : "+c);
 		//Finall Commit////
+		//hamza
 	}
 }
 	
